@@ -2,9 +2,9 @@
 
 **Setup**
 
-[ ] Clone the repo
-[ ] run `npm install` to install dependencies
-[ ] set up your `.env` file and include you Mapbox and DarkSky api keys in the file
+- [ ] Clone the repo
+- [ ] run `npm install` to install dependencies
+- [ ] set up your `.env` file and include you Mapbox and DarkSky api keys in the file
 
 **Usage**
 
